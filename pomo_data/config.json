@@ -1,0 +1,14 @@
+{
+  "pomodoro_min": 25,
+  "short_break_min": 5,
+  "long_break_min": 15,
+  "cycles_before_long_break": 4,
+  "auto_start_next": true,
+  "volume": 0.6,
+  "theme": "ocean",
+  "ambient_enabled": true,
+  "ambient_volume": 0.3,
+  "lofi_playlist": [],
+  "alarm_sound": null,
+  "smart_enabled": false
+}
